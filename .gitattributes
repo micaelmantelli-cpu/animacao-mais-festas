@@ -7,6 +7,9 @@
 *.py text eol=lf
 *.ps1 text eol=crlf
 *.mp4 binary
+*.MOV binary
+*.mov binary
+*.pdf binary
 *.wav binary
 *.mp3 binary
 *.png binary
