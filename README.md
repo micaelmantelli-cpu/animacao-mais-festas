@@ -54,4 +54,4 @@ Os materiais utilizados na edição estão em `public/`. Os arquivos brutos, as 
 npm run check
 ```
 
-Projeto privado. Código e materiais sem autorização para redistribuição pública. As dependências mantêm suas respectivas licenças.
+Repositório público por solicitação do proprietário. Código e materiais sem licença de redistribuição. As dependências mantêm suas respectivas licenças.
