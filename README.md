@@ -37,6 +37,7 @@ A narração fornecida está preservada: ela ainda utiliza “20 unidades própr
 
 - `src/`: cenas, animações e registro das composições.
 - `public/`: fotos, logos, fontes, cortes de vídeo, narração e trilhas usados na edição.
+- `materiais-originais/`: cópia dos materiais da pasta local, com a estrutura de `IDENTIDADE VISUAL`, `IMAGENS`, `INSPIRAÇÕES`, `NARRAÇÃO` e `LOGOS` preservada.
 - `scripts/render-final.mjs`: exportação completa, sem depender das renderizações intermediárias.
 - `scripts/criar-trilha.py` e `scripts/preparar-audio.py`: geração e preparação do áudio.
 - `scripts/*.ps1`: etapas históricas de montagem; dependem dos intermediários locais em `out/`.
@@ -45,7 +46,7 @@ A narração fornecida está preservada: ela ainda utiliza “20 unidades própr
 - `entregas/`: última entrega consolidada.
 - `out/`: renderizações temporárias, não versionadas.
 
-Os materiais efetivamente utilizados foram copiados para `public/`. As pastas de material bruto e referências, externas a este projeto Remotion, permanecem na pasta de trabalho original.
+Os materiais utilizados na edição estão em `public/`. Os arquivos brutos, as referências e os logos adicionais também estão versionados em `materiais-originais/`. Os originais da pasta de trabalho local foram preservados.
 
 ## Verificação
 
