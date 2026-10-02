@@ -1,0 +1,22 @@
+{
+  "arquivo": "out/mais-festas-completo-revisado.mp4",
+  "formato": {"largura":1080,"altura":1920,"fps":30,"duracao_segundos":146},
+  "identidade": "Mais Festas: preto, amarelo e vermelho; motion com perspectiva, linhas luminosas e volumes",
+  "revisoes": [
+    "Foto da família de Micael nos dois momentos iniciais de origem",
+    "Uma rede de franquias: mais de 20 unidades de espaços de eventos",
+    "Fernando Fernandes: foto pessoal e Dono do Castelo dos Sonhos",
+    "Outras assessorias. Novas promessas. com Assessoria 01, 02 e 03 e Proposta de marketing",
+    "Mais de 400 clientes em uma cena posterior, separado das unidades próprias"
+  ],
+  "cortes_reais": [
+    {"origem":"IMG_3200.MOV","entrada_origem":0.3,"duracao_arquivo":4.5,"entrada_timeline":51,"uso":"Atendimento e operação do salão"},
+    {"origem":"WhatsApp Video 2026-04-24 at 16.54.38.mp4","entrada_origem":10,"duracao_arquivo":5,"entrada_timeline":55.2667,"uso":"Interior do salão no painel animado"},
+    {"origem":"IMG_3197.MOV","entrada_origem":1,"duracao_arquivo":6.2,"entrada_timeline":83.4,"uso":"Chegada da aniversariante na tela de celular"},
+    {"origem":"IMG_3209.MOV","entrada_origem":0.6,"duracao_arquivo":5.4,"entrada_timeline":136.2,"uso":"Família na festa antes da assinatura final"}
+  ],
+  "foto_real_adicional":"Lucca-143.jpg",
+  "tratamento_video":"Cortes sem áudio próprio, conversão HDR HLG para SDR Rec.709 quando necessário, orientação vertical preservada",
+  "audio": {"narracao":"Narração original integral","trilha":"Instrumental eletrônico original sintetizado localmente","mix":"Trilha baixa com redução automática durante a voz","lufs_integrado":-17.1,"pico_verdadeiro_dbfs":-4.8},
+  "observacao":"As alterações de terminologia estão nos textos visuais. A locução fornecida permanece integral."
+}

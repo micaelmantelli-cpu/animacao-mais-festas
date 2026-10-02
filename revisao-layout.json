@@ -1,0 +1,14 @@
+{
+  "arquivo": "out/mais-festas-layout-ajustado.mp4",
+  "voz_velocidade": 1.15,
+  "duracao_segundos": 126.966667,
+  "revisoes": [
+    "Títulos das três cenas 35 pixels mais abaixo",
+    "Para resolver um problema real separado do vídeo por espaço maior, centralizado e deslocado 85 pixels para baixo",
+    "Legendas de apoio deslocadas 50 a 60 pixels para baixo",
+    "Castelo dos Sonhos integrado ao cartão central da rede, sem cruzamento das linhas sobre o texto",
+    "Seu negócio identificado pelo ícone de espaço de eventos e Nossa equipe pelo ícone de pessoas",
+    "Nomes dos dois ícones com mais espaço vertical e cartão Uma visão completa 110 pixels mais abaixo"
+  ],
+  "preservado": ["Voz acelerada em 15%", "Áudio da versão acelerada copiado integralmente", "Animações refinadas de necessidade e jornada", "Cifrão no fechamento", "Todas as revisões anteriores"]
+}

@@ -1,0 +1,18 @@
+node_modules
+dist
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+.tools/
+__pycache__/
+.venv/
+analise/
+
+# Ignore the output video from Git but not videos you import into src/.
+out

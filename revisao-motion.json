@@ -1,0 +1,10 @@
+{
+  "arquivo": "out/mais-festas-motion-refinado.mp4",
+  "voz_velocidade": 1.15,
+  "audio": "Mesma faixa da versão acelerada, copiada sem alteração",
+  "duracao_segundos": 126.966667,
+  "cenas_revisadas": [
+    {"cena":"Da operação, uma necessidade","frames_base":[471,605],"animacao":"Entradas escalonadas, flutuação, trilhas luminosas em movimento, órbitas contínuas e alerta central pulsando em resposta às conexões"},
+    {"cena":"Do anúncio à festa fechada","frames_base":[1159,1441],"animacao":"Construção progressiva das etapas, pulsos percorrendo as curvas, rotação dos anéis, ícones flutuantes e cifrão com giro e confirmação luminosa no fechamento"}
+  ]
+}
